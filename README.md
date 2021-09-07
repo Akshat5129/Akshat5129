@@ -1,4 +1,4 @@
-<img src='https://github.com/Akshat5129/Akshat5129/blob/main/Banner.png' alt='github' >
+
 
 ### Hi there 👋, I'm Akshat Patel
 #### A passionate developer from India.
