@@ -4,8 +4,8 @@
 #### A passionate developer from India.
 #### Currently studying at Avantika University.
 
-- 🌱 I’m currently learning Mobile Development. 
-- 📫 How to reach me: akshatvinaybhai.patel@avantika.edu.in 
+- 🌱 I’m currently freelancing and helping the local community to take up with the digital world.
+- 📫 How to reach me: akpatel5129@gmail.com
 
 
 
